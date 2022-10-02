@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Aaron</h1>
+<!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 
-<!--
-**zyuan8591/zyuan8591** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **React, Firebase, Tailwind**
+- 📫 How to reach me **kaven22314567@gmail.com**
 
-Here are some ideas to get you started:
+<h3 align="left">Languages and Tools:</h3>
+<p>
+    React, Sass, jQuery, Bootstrap, Node.js, Express, PHP, MySQL, Git/Github, Figma
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zyuan8591&show_icons=true&locale=en&layout=compact" alt="zyuan8591" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zyuan8591&show_icons=true&locale=en" alt="zyuan8591" /></p>
